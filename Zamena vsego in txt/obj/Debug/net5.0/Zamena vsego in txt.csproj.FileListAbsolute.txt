@@ -1,0 +1,25 @@
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\Zamena vsego in txt.exe
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\Zamena vsego in txt.deps.json
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\Zamena vsego in txt.runtimeconfig.json
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\Zamena vsego in txt.runtimeconfig.dev.json
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\Zamena vsego in txt.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\ref\Zamena vsego in txt.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\Zamena vsego in txt.pdb
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\obj\Debug\net5.0\Zamena vsego in txt.csproj.AssemblyReference.cache
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\obj\Debug\net5.0\Zamena vsego in txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\obj\Debug\net5.0\Zamena vsego in txt.AssemblyInfoInputs.cache
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\obj\Debug\net5.0\Zamena vsego in txt.AssemblyInfo.cs
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\obj\Debug\net5.0\Zamena vsego in txt.csproj.CoreCompileInputs.cache
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\obj\Debug\net5.0\Zamena vsego in txt.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\obj\Debug\net5.0\ref\Zamena vsego in txt.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\obj\Debug\net5.0\Zamena vsego in txt.pdb
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\obj\Debug\net5.0\Zamena vsego in txt.genruntimeconfig.cache
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\Aspose.Cells.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\proro\source\repos\Zamena vsego in txt\Zamena vsego in txt\obj\Debug\net5.0\Zamena vsego in txt.csproj.CopyComplete
